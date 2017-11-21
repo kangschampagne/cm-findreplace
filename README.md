@@ -39,4 +39,4 @@ CodeMirror Find
 CodeMirror Find-Replace
 
 4.构建
-使用命令 `npm run build:theme`
+使用命令 `npm run build:release`
